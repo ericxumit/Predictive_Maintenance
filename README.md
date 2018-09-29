@@ -1,4 +1,2 @@
-# PdM
-# Eric check in 2018-5-1
-# Eric check in 2018-5-1-9:39pm
-# Chen check in
+# Predictive Maintenance
+# Eric Xu 2018-9-28 Check In
